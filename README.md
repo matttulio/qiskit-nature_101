@@ -9,3 +9,5 @@ qiskit-nature repository https://github.com/qiskit-community/qiskit-nature/tree/
 This project can be seen as a first step in the field of physics-informed machine learning on quantum computer simulations:
 
 "General implementation of quantum physics-informed neural networks" https://doi.org/10.1016/j.array.2023.100287
+
+Topic to keep in mind: VQA, quantum annealing
