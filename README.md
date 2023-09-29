@@ -7,6 +7,7 @@ tutorial that i'm following: https://qiskit.org/ecosystem/nature/tutorials/index
 qiskit-nature repository https://github.com/qiskit-community/qiskit-nature/tree/780547c1d7f759821f9f024f0ddf20817ada74ee
 
 -------------------------------------NOTES FOR ME------------------------------------------------------------------------------------------
+
 physics-informed machine learning on quantum computer simulations:
 "General implementation of quantum physics-informed neural networks" https://doi.org/10.1016/j.array.2023.100287
 Topic to keep in mind: VQA, quantum annealing
